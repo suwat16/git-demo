@@ -1,2 +1,1 @@
-me: Hello Git
-me: Hi2
+me: goodbye
